@@ -1,23 +1,23 @@
 # laravel-fpdf
 
 <p align="center">
-     <a href="https://github.com/apphostbd/laravel-fpdf/tags" alt="tag">
-        <img src="https://img.shields.io/github/v/tag/apphostbd/laravel-fpdf" alt="tag"/>
+     <a href="https://github.com/checkitsedo/laravel-fpdf/tags" alt="tag">
+        <img src="https://img.shields.io/github/v/tag/checkitsedo/laravel-fpdf" alt="tag"/>
       </a> 
-     <a href="https://packagist.org/packages/apphostbd/laravel-fpdf" alt="Total Downloads">
-        <img src="https://img.shields.io/packagist/dt/apphostbd/laravel-fpdf" alt="Total Downloads"/>
+     <a href="https://packagist.org/packages/checkitsedo/laravel-fpdf" alt="Total Downloads">
+        <img src="https://img.shields.io/packagist/dt/checkitsedo/laravel-fpdf" alt="Total Downloads"/>
       </a> 
-     <a href="https://github.com/apphostbd/laravel-fpdf/issues" alt="Issues">
-        <img src="https://img.shields.io/github/issues/apphostbd/laravel-fpdf" alt="Issues"/>
+     <a href="https://github.com/checkitsedo/laravel-fpdf/issues" alt="Issues">
+        <img src="https://img.shields.io/github/issues/checkitsedo/laravel-fpdf" alt="Issues"/>
       </a>  
-     <a href="https://github.com/apphostbd/laravel-fpdf/fork" alt="Forks">
-        <img src="https://img.shields.io/github/forks/apphostbd/laravel-fpdf"  alt="Forks"/>
+     <a href="https://github.com/checkitsedo/laravel-fpdf/fork" alt="Forks">
+        <img src="https://img.shields.io/github/forks/checkitsedo/laravel-fpdf"  alt="Forks"/>
       </a>  
-     <a href="https://github.com/apphostbd/laravel-fpdf/stargazers" alt="Stars">
-        <img src="https://img.shields.io/github/stars/apphostbd/laravel-fpdf"  alt="Stars"/>
+     <a href="https://github.com/checkitsedo/laravel-fpdf/stargazers" alt="Stars">
+        <img src="https://img.shields.io/github/stars/checkitsedo/laravel-fpdf"  alt="Stars"/>
       </a>  
-     <a href="https://github.com/apphostbd/laravel-fpdf/blob/master/LICENSE" alt="License">
-        <img src="https://img.shields.io/github/license/apphostbd/laravel-fpdf" />
+     <a href="https://github.com/checkitsedo/laravel-fpdf/blob/master/LICENSE" alt="License">
+        <img src="https://img.shields.io/github/license/checkitsedo/laravel-fpdf" />
       </a>       
 </p>
 
@@ -26,7 +26,7 @@ FPDF is a PHP class which allows to generate PDF files with pure PHP, that is to
 
 ## Installation Composer
 ```sh
-  composer require apphostbd/laravel-fpdf
+  composer require checkitsedo/laravel-fpdf
 ```
 ### Laravel >= 5.5
 Enjoy the auto discovery feature. 
@@ -40,7 +40,7 @@ Enjoy the auto discovery feature.
 
 return [
     'aliases' => [
-        'Fpdf' => AppHostBD\Fpdf\Facades\FpdfFacade::class,
+        'Fpdf' => Checkitsedo\Fpdf\Facades\FpdfFacade::class,
      ]
 
 ```
@@ -145,7 +145,7 @@ exit();
 
 ```
 
-Out put Example 1 click here [Example 1 pdf](https://github.com/apphostbd/laravel-fpdf/raw/master/src/Fpdf/demo/pdf/example1.pdf "Example 1 pdf")
+Out put Example 1 click here [Example 1 pdf](https://github.com/checkitsedo/laravel-fpdf/raw/master/src/Fpdf/demo/pdf/example1.pdf "Example 1 pdf")
 
 Screenshot PDF
 ![Example 1 pdf](src/Fpdf/demo/screenshot/demo1.png)
