@@ -16,6 +16,10 @@
         {
             "name": "Farhan Tanvir",
             "email": "farhanswe35@gmail.com"
+        },
+        {
+            "name": "checkitsedo",
+            "email": "info@senti.lu"
         }
     ],
     "minimum-stability": "dev",
