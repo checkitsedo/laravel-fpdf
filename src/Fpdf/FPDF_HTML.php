@@ -9,7 +9,7 @@
 //function hex2dec
 //returns an associative array (keys: R,G,B) from
 //a hex html code (e.g. #3FE5AA)
-namespace AppHostBD\Fpdf\Fpdf;
+namespace Checkitsedo\Fpdf\Fpdf;
 
 
 function hex2dec($couleur = "#000000"){
