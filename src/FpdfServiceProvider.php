@@ -4,9 +4,13 @@
  * User: Farhan
  * Date: 10/20/2019
  * Time: 11:01 PM
+ *
+ * Changed by checkitsedo.
+ * Date: 12/23/2019
+ * Time: 20:44 PM
  */
 
-namespace AppHostBD\Fpdf;
+namespace Checkitsedo\Fpdf;
 
 use Illuminate\Support\ServiceProvider;
 
