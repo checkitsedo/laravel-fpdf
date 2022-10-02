@@ -1,4 +1,7 @@
 <?php
+
+namespace Checkitsedo\Fpdf\Fpdf;
+
 /*******************************************************************************
 * FPDF                                                                         *
 *                                                                              *
@@ -7,7 +10,6 @@
 * Author:  Olivier PLATHEY                                                     *
 *******************************************************************************/
 
-namespace Checkitsedo\Fpdf;
 define('FPDF_VERSION','1.81');
 
 class FPDF
