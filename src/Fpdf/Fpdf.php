@@ -7,7 +7,7 @@
 * Author:  Olivier PLATHEY                                                     *
 *******************************************************************************/
 
-namespace Checkitsedo\Fpdf\Fpdf;
+namespace Checkitsedo\Fpdf;
 define('FPDF_VERSION','1.81');
 
 class FPDF
